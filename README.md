@@ -17,3 +17,14 @@ Consigli del giorno
 Scriviamo sempre in italiano i passaggi che vogliamo fare
 Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andiamo avanti.
 Buon lavoro e buon divertimento!
+
+snack 1 
+solution
+1-chiedo all'utente di inserire la parola
+2-divido la parola
+3-creo una funzione
+4-creo un ciclo for
+5- se e uguale allora è palindroma
+6-altrimenti non è palindroma
+7-chiamo la funzione
+8- mostro in console il risultato
