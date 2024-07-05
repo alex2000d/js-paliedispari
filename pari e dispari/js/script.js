@@ -13,3 +13,10 @@ function checkevenorodd(sum) {
     
 }
 
+// creo un promt per inserire la parola pari o dispari
+let even_or_odd = prompt('insersci pari o dispari');
+
+
+// creo un promt per inserire un numero da uno a cinque
+let number = parseInt(prompt('inserisci un numero da 1 a 5'));
+
