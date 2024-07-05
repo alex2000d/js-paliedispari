@@ -7,7 +7,7 @@ function countWords (string){
     // creo un ciclo for
     for( let i = 0; i < string.length; i++){
         // se e uguale allora è palindroma
-                if(word == check_pal){
+                if(word.toLowerCase() === check_pal.toLowerCase()){
                     console.log('la stringa e palindroma')
                     // altrimenti non è palindroma
                 }else {
@@ -16,8 +16,8 @@ function countWords (string){
                
                 } 
             }
-            // mostro in console il risultato
-            return('la stringa non e palindroma')
+            
+            return'la stringa non e palindroma'
     }
     // chiamo la funzione
-    let wordpal = countWords(word);
+    let wordpal = countWords(word.toLowerCase());
