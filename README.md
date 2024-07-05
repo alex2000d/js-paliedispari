@@ -28,3 +28,15 @@ solution
 6-altrimenti non è palindroma
 7-chiamo la funzione
 8- mostro in console il risultato
+
+snack 2
+solution
+1-creo una funzione che generi un numero randomico
+2-creo una funzione che fa la somma è pari o dispari
+3-verifico se è pari o dispari
+4-creo un promt per inserire la parola pari o dispari
+5-creo un promt per inserire un numero da uno a cinque
+6- genero il numero per il pc richiamando la funzione generate random number
+7-faccio la somma dei due numeri
+8-dichiaro se il risultato è pari o dispari
+9-verifico che il risultato e la variabile pari o dispari hanno lo stesso valore e gli assegno se ha vinto o perso
